@@ -1,14 +1,10 @@
-This is an auto monkeytype word typer. 
-Created this inorder to destroy monkeytype typing test.
-Currently it has one flaw that the browser exits after the test is completed.
-Will fix it soon.
+This is an auto Human Benchmark desroyer. 
+Created this inorder to destroy human benchmark test.
 
-INORDER TO RUN THE CODE 
 
-Install - 
-pip install -U selenium
-pip install pyautogui
+completed 3/7
 
-in terminal 
-
-then run it will do the rest
+1. reaction_time
+2. verbal_memory
+3. aim_trainer
+   
